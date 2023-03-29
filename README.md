@@ -1,7 +1,7 @@
 ### Olá, bem vindo! Eu sou o Humberto Araújo!
 
 ##
--🌱 Aprendizado em python
+-🌱 Aprediz de ciência de dados
 
 ##
 
@@ -33,5 +33,5 @@ src="https://cdn.discordapp.com/attachments/1029608736920186904/1029617210727079
 
 ##
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-<\div>
+
 
