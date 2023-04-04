@@ -2,7 +2,8 @@
 
 ##
 -🌱 Aprediz de ciência de dados
-
+-  🌎 Geografo em formação
+-  🥋 Judoca (faixa roxa)
 ##
 
 <div align="center">
