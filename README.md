@@ -1,9 +1,9 @@
 ### Olá, bem vindo! Eu sou o Humberto Araújo!
 
 ##
--🌱 Aprediz de ciência de dados
--  🌎 Geografo em formação
--  🥋 Judoca (faixa roxa)
+-🌱 Entusiadas de dados
+-  🌎 Geografo
+-  🥋 Judoca 1°Kyu(faixa marrom)
 ##
 
 <div align="center">
